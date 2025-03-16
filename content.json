@@ -1,10 +1,10 @@
 {
-  "Reademe": {
-    "readme": {
+  "System": {
+    "Readme": {
       "readme": "readme.html"
     },
-    "index": {
-      "index": "index.html"
+    "About": {
+      "about": "about.html"
     }
   }
 }
